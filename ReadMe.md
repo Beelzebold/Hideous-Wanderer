@@ -3,38 +3,38 @@ Hideous Wanderer is a mod for Wolfenstein3D, specifically the sourceport ECWolf,
 
 It aims to make the game a little bit milsim/tac-shootery. It gives weapons a more real-world accurate feel, including more realistic firerate and damage, and adding reloading.
 
-## Table of Contents:
+### Table of Contents:
 Feature Guide - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#feature-guide-for-hwand
+Known Issues - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#known-issues-as-of-hideous-wanderer-alpha01
 
+## FEATURE GUIDE for HWand
 
-# FEATURE GUIDE for HWand
-
-  I. WEAPONS
+###  I. WEAPONS
 You start with the Knife and the Pistol.
 
----KNIFE---
+#### ---KNIFE---
 A simple knife. It has your loose rounds ammo counter.
 Fire to stab. It's more powerful than the standard Wolf3D knife. 
 
----PISTOL---
+#### ---PISTOL---
 The standard issue pistol. It's a Luger 9mm semi auto handgun. Luckily the clips for it are really hard to accidentally drop and really fast to reload.
 Fire to shoot. Altfire to reload.
 
 On top of that, there are a few weapons that you'll find around.
 
----SMG---
+#### ---SMG---
 A fully suppressed sub-machine gun. Fully suppressed, fully automatic, fully inaccurate. Less accurate than the pistol, but it has a large mag capacity and deals more damage per shot. On top of that, if you can manage to stealth kill your target, it might not alert anybody.
 Fire to shoot, altfire to reload.
 
----CHAINGUN---
+#### ---CHAINGUN---
 The ultimate swiss cheesifying tool. It fires incredibly fast, and deals a fuck-ton of damage per round, but absolutely guzzles ammo. It's capable of killing heavily armored soldiers incredibly quickly.
 Fire to shoot, altfire to reload.
 
 
 
-# KNOWN ISSUES as of HIDEOUS WANDERER ALPHA01
+## KNOWN ISSUES as of HIDEOUS WANDERER ALPHA01
 
-=-=Crashes=-=
+### =-=Crashes=-=
 
 1. When reloading from empty, if you pick up a mag during the reload sequence,
 the game hard-crashes.
@@ -50,7 +50,7 @@ IN YOUR INVENTORY. IT IS ALSO EVEN BUGGIER WHEN YOU TRY TO CHEAT IN GOODIES.
 NOTE: The previous two bugs have not been confirmed for the Chaingun.
 
 
-=-=General Bugs=-=
+### =-=General Bugs=-=
 
 1. The SMG has no pickup sprite. (fixed)
 
