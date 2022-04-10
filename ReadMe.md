@@ -4,7 +4,7 @@ Hideous Wanderer is a mod for Wolfenstein3D, specifically the sourceport ECWolf,
 It aims to make the game a little bit milsim/tac-shootery. It gives weapons a more real-world accurate feel, including more realistic firerate and damage, and adding reloading.
 
 
-FEATURE GUIDE for HWand
+# FEATURE GUIDE for HWand
 
   I. WEAPONS
 You start with the Knife and the Pistol.
@@ -29,7 +29,7 @@ Fire to shoot, altfire to reload.
 
 
 
-KNOWN ISSUES as of HIDEOUS WANDERER ALPHA01
+# KNOWN ISSUES as of HIDEOUS WANDERER ALPHA01
 
 =-=Crashes=-=
 
