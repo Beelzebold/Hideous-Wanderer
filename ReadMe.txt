@@ -4,6 +4,30 @@ Hideous Wanderer is a mod for Wolfenstein3D, specifically the sourceport ECWolf,
 It aims to make the game a little bit milsim/tac-shootery. It gives weapons a more real-world accurate feel, including more realistic firerate and damage, and adding reloading.
 
 
+FEATURE GUIDE for HWand
+
+  I. WEAPONS
+You start with the Knife and the Pistol.
+
+---KNIFE---
+A simple knife. It has your loose rounds ammo counter.
+Fire to stab. It's more powerful than the standard Wolf3D knife. 
+
+---PISTOL---
+The standard issue pistol. It's a Luger 9mm semi auto handgun. Luckily the clips for it are really hard to accidentally drop and really fast to reload.
+Fire to shoot. Altfire to reload.
+
+On top of that, there are a few weapons that you'll find around.
+
+---SMG---
+A fully suppressed sub-machine gun. Fully suppressed, fully automatic, fully inaccurate. Less accurate than the pistol, but it has a large mag capacity and deals more damage per shot. On top of that, if you can manage to stealth kill your target, it might not alert anybody.
+Fire to shoot, altfire to reload.
+
+---CHAINGUN---
+The ultimate swiss cheesifying tool. It fires incredibly fast, and deals a fuck-ton of damage per round, but absolutely guzzles ammo. It's capable of killing heavily armored soldiers incredibly quickly.
+Fire to shoot, altfire to reload.
+
+
 KNOWN ISSUES as of HIDEOUS WANDERER ALPHA01
 
 =-=Crashes=-=
