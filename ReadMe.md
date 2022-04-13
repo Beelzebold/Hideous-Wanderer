@@ -6,7 +6,7 @@ It aims to make the game a little bit milsim/tac-shootery. It gives weapons a mo
 ### Table of Contents:
 Feature Guide - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#feature-guide-for-hwand
 
-Known Issues - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#known-issues-as-of-hideous-wanderer-alpha01
+Known Issues - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#known-issues-as-of-hideous-wanderer-beta01
 
 ## FEATURE GUIDE for HWand
 
@@ -27,13 +27,39 @@ On top of that, there are a few weapons that you'll find around.
 A fully suppressed sub-machine gun. Fully suppressed, fully automatic, fully inaccurate. Less accurate than the pistol, but it has a large mag capacity and deals more damage per shot. On top of that, if you can manage to stealth kill your target, it might not alert anybody.
 Fire to shoot, altfire to reload.
 
+#### ---SHOTGUN---
+Groovy.
+Fire to shoot, alt to reload
+Sprites: Freedoom
+Sounds: Freedoom
+
 #### ---CHAINGUN---
 The ultimate swiss cheesifying tool. It fires incredibly fast, and deals a fuck-ton of damage per round, but absolutely guzzles ammo. It's capable of killing heavily armored soldiers incredibly quickly.
 Fire to shoot, altfire to reload.
 
 
 
-## KNOWN ISSUES as of HIDEOUS WANDERER ALPHA01
+### II. Enemies
+Along your journies, you will meet many nazi scumbags who would love nothing more than to be able to jumpstart your tonsils or turn your balls inside out without puncturing them or creating sharp bends or creases. They range from the simplest of guards to the highly experienced elites.
+
+#### -=Guard=-
+A standard castle patrol guard. Hobbies include petting the dogs and popping holes through spies. They're slow to draw as well as having a measly 20 health. They drop a single magazine.
+
+#### -=K-9 Dog=-
+A vicious dog. Would love nothing more than to chew your testicles off and spit them into your eyes, because theirs got cut off by an SS vet. Really fast, kill on sight.
+
+#### -=Schutzstafell=-
+A high ranking SS Officer. You keep expecting them to buzz you with a stun rod and send you to solitary confinement. These guys are heavily armored and react quickly. Know them by their war cry. At least when you wipe them off of the floor you can extract their sick sub-machine-gun.
+
+#### -=Mutant=-
+A dead soldier brought back to unlife by the nefarious Dr. Schabbs with the help of Otto Giftmacher, a chemical specialist. These guys react 5 seconds before they even notice you, and immediately punch 2 holes through you with the pistol grafted to their chest, while slicing and dicing in close range. If you hear one, run toward cover, there could be more. They don't even drop anything. Sheesh.
+
+#### -=Elite Guard=-
+The best of the best that the nazi forces have to offer. They're incredibly quick to fire, and will pop your ass into oblivion. Know their presence when they call to you, spy. And don't count on that pistol. They take 3-5 shots with it to kill, and they usually come in pairs or trios.
+
+
+
+## KNOWN ISSUES as of HIDEOUS WANDERER BETA01
 
 ### =-=Crashes=-=
 
