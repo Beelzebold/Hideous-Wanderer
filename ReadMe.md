@@ -29,8 +29,8 @@ Fire to shoot, altfire to reload.
 
 #### ---SHOTGUN---
 Groovy.
-Fire to shoot, alt to reload
-Sprites: Freedoom
+Fire to shoot, alt to reload.
+Sprites: Freedoom,
 Sounds: Freedoom
 
 #### ---CHAINGUN---
