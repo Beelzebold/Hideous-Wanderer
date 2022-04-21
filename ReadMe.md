@@ -5,8 +5,8 @@ It aims to make the game a little bit milsim/tac-shootery. It gives weapons a mo
 
 ### Table of Contents:
 Feature Guide - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#feature-guide-for-hwand
-#### I. WEAPONS - 
-#### II. ENEMIES - 
+#### I. WEAPONS - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#i-weapons
+#### II. ENEMIES - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#ii-enemies
 
 Known Issues - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#known-issues-as-of-hideous-wanderer-beta02
 
