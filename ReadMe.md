@@ -5,8 +5,10 @@ It aims to make the game a little bit milsim/tac-shootery. It gives weapons a mo
 
 ### Table of Contents:
 Feature Guide - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#feature-guide-for-hwand
+#### I. WEAPONS - 
+#### II. ENEMIES - 
 
-Known Issues - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#known-issues-as-of-hideous-wanderer-beta01
+Known Issues - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#known-issues-as-of-hideous-wanderer-beta02
 
 ## FEATURE GUIDE for HWand
 
@@ -52,14 +54,26 @@ A vicious dog. Would love nothing more than to chew your testicles off and spit 
 A high ranking SS Officer. You keep expecting them to buzz you with a stun rod and send you to solitary confinement. These guys are heavily armored and react quickly. Know them by their war cry. At least when you wipe them off of the floor you can extract their sick sub-machine-gun.
 
 #### -=Mutant=-
-A dead soldier brought back to unlife by the nefarious Dr. Schabbs with the help of Otto Giftmacher, a chemical specialist. These guys react 5 seconds before they even notice you, and immediately punch 2 holes through you with the pistol grafted to their chest, while slicing and dicing in close range. If you hear one, run toward cover, there could be more. They don't even drop anything. Sheesh.
+A dead allied soldier brought back to unlife by the nefarious Dr. Schabbs with the help of Otto Giftmacher, a chemical specialist. These guys react 5 seconds before they even notice you, and immediately punch 2 holes through you with the pistol grafted to their chest, while slicing and dicing in close range. If you hear one, run toward cover, there could be more. They don't even drop anything. Sheesh.
 
 #### -=Elite Guard=-
 The best of the best that the nazi forces have to offer. They're incredibly quick to fire, and will pop your ass into oblivion. Know their presence when they call to you, spy. And don't count on that pistol. They take 3-5 shots with it to kill, and they usually come in pairs or trios.
 
+### II. a. Bosses
+There are plenty of high ranking nazis who would like to add one of your eyes to their collection of war trophies. Here's a vague description of all of them.
+
+#### -=Hans Grosse=-
+A high ranked guard who stands over the entrance (and exit) to Castle Wolfenstein. He wields two chainguns and is heavily armored. He has supreme command over all guards in the castle.
+
+#### -=Dr. Schabbs=-
+A nazi doctor who experiments on allied soldiers for fun. We've heard rumors that he's been collaborating with the nazi chemist Otto Giftmacher to create some undead super-soldiers. Hitler was worried allied soldiers, who don't have the traits he so prizes, would be less effective, but Schabbs assures him that it's better than experimenting on their own. These soldiers follow his every command and lurk in every shadow. He could call forth an army at any time.
+
+#### -=Hitler=-
+The nazi mastermind Hitler himself. He battles wielding four chainguns, yes, FOUR, and wears a mech-suit into the fray. Two of the chainguns have Flammenwerfers attached to them. He commands and mobilizes all nazi officers and rules over the elite.
 
 
-## KNOWN ISSUES as of HIDEOUS WANDERER BETA01
+
+## KNOWN ISSUES as of HIDEOUS WANDERER BETA02
 
 ### =-=Crashes=-=
 
