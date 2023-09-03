@@ -69,6 +69,12 @@ The nazi mastermind Hitler himself. He battles wielding four chainguns, yes, FOU
 ### III. Getting Shot
 #### And not dying!
 
+When you are shot, there's a pretty good chance you'll be wounded. If this happens, you won't recover as fast, or as fully. Aside from just resting about for awhile, you can recover health by eating meals (or dog food in a pinch) or by patching your wounds by picking up a medikit. If you get injured too badly, the blood loss may begin to drain your health to a certain point, so keep an eye on that stuff.
+
+You can also pick up armor from fallen foes to grant your self a little bit of extra protection. This does nothing to prevent or stop wounds or blood loss though, so always be on the lookout for medikits.
+
+On higher skill levels, you may find yourself losing 70-80 health to a single shot, so on skill levels higher than Bring 'Em On, it's extra important to keep an eye on your HP.
+
 ## KNOWN ISSUES as of HIDEOUS WANDERER BETA03
 
 ### =-=Crashes=-=
