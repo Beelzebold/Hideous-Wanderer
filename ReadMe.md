@@ -1,7 +1,7 @@
 # Hideous-Wanderer
 Hideous Wanderer is a mod for Wolfenstein3D, specifically the sourceport LZWolf, based on the mod for Doom of a similar name, Hideous Destructor.
 
-It aims to make the game a little bit milsim/tac-shootery. It gives weapons a more real-world accurate feel, including more realistic firerate and damage, and adding reloading.
+It aims to make the game a little bit tac-shootery. It gives weapons a more real-world accurate feel, including more realistic firerate and damage, and adding reloading.
 
 ### Table of Contents:
 Feature Guide - https://github.com/Beelzebold/Hideous-Wanderer/blob/main/ReadMe.md#feature-guide-for-hwand
@@ -21,13 +21,13 @@ A simple knife. It has your loose rounds ammo counter.
 Fire to stab. It's more powerful than the standard Wolf3D knife. 
 
 #### ---PISTOL---
-The standard issue pistol. It's a Luger 9mm semi auto handgun. Luckily the clips for it are really hard to accidentally drop and really fast to reload.
+The standard issue pistol. It's a Browning Hi-Power handgun. Luckily the mags for it are really hard to accidentally drop and really fast to reload.
 Fire to shoot. Altfire to reload.
 
 On top of that, there are a few weapons that you'll find around.
 
 #### ---SMG---
-A fully suppressed sub-machine gun. Fully suppressed, fully automatic, fully inaccurate. Less accurate than the pistol, but it has a large mag capacity and deals more damage per shot. On top of that, if you can manage to stealth kill your target, it might not alert anybody.
+A fully suppressed MP-40 "Maschinen-Pistole" (sub-machine gun). Fully suppressed, fully automatic, fully inaccurate. Less accurate than the pistol, but it has a large mag capacity and deals more damage per shot. On top of that, if you can manage to stealth kill your target, it might not alert anybody.
 Fire to shoot, altfire to reload.
 
 #### ---CHAINGUN---
@@ -75,17 +75,23 @@ You can also pick up armor from fallen foes to grant your self a little bit of e
 
 On higher skill levels, you may find yourself losing 70-80 health to a single shot, so on skill levels higher than Bring 'Em On, it's extra important to keep an eye on your HP.
 
-## KNOWN ISSUES as of HIDEOUS WANDERER BETA03
+## KNOWN ISSUES as of HIDEOUS WANDERER BETA04
 
 ### =-=Crashes=-=
 
 1. When reloading from empty, if you pick up a mag during the reload sequence,
-the game hard-crashes.
+the game hard-crashes. (I believe that this was just the second one that I
+diagnosed wrong. fixed.)
 
 2. If you reload from empty but don't have anything to put into the gun, the
-game crashes for some reason. Note that this is rather inconsistent.
+game crashes for some reason. Note that this is rather inconsistent. (fixed as
+of migrating to LZWolf)
 
-3. Sometimes grabbing extra lives (looks like it happens while reloading?) will crash the game.
+3. Sometimes grabbing extra lives (looks like it happens while reloading?) will
+crash the game.
+
+4. Save games currently don't work well at all, commonly crashing the game
+whenever dealing with savegames that last longer than a single level.
 
 WARNING:
 RELOADING FROM EMPTY IN GENERAL IS VERY BUGGY. I WOULD NOT RECOMMEND THAT YOU 
@@ -100,4 +106,4 @@ NOTE: The previous two bugs have not been confirmed for the Chaingun.
 1. The SMG has no pickup sprite. (fixed)
 
 2. If you run out of loose bullets or pick up too many, the ammo counter 
-(displayed on the knife) will disappear.
+(displayed on the knife) will disappear. (fixed)
