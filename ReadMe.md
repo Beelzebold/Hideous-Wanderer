@@ -1,5 +1,5 @@
 # Hasslich-Wandlaufer
-Hasslich Wandlaufer is a mod for Wolfenstein3D, specifically the sourceport LZWolf, based on the mod for Doom of a similar name, Hideous Destructor.
+Hasslich Wandlaufer is a mod for Wolfenstein3D, specifically the sourceport LZWolf, inspired by the mod for Doom of a similar name, Hideous Destructor.
 
 It aims to make the game a little bit tac-shootery. It gives weapons a more real-world accurate feel, including more realistic firerate and damage, and adding reloading.
 
